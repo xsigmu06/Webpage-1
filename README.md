@@ -1,2 +1,2 @@
-# Webpage-1
-The Odin Project
+# webpage-1
+Project: Landing page (The Odin Project)
