@@ -93,6 +93,7 @@ button, .call {
 }
 
 .info-placeholder-container {
+    flex-wrap: wrap;
     display: flex;
     gap: 40px;
     justify-content: center;
